@@ -21,18 +21,9 @@ The project covers:
 
 ---
 
-## 📁 Project Structure
 
-books_project/
-├── main.py # Main FastAPI app
-├── models.py # Pydantic models (Book schema)
-├── database.py # Temporary in-memory storage
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
 
-yaml
-Copy
-Edit
+
 
 ---
 
