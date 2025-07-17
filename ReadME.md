@@ -25,7 +25,6 @@ The project covers:
 
 
 
----
 
 ## 🔧 Installation & Setup
 
